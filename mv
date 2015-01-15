@@ -1,0 +1,1 @@
+mv moves each file named by a source operand to a destination file in the existing directory named by the directory operand.
